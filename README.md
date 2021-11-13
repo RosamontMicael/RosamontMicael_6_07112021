@@ -4,6 +4,7 @@
 ## Usage ##
 A partir du dossier Backend faire: 
 nodemon server
+Rajouter un dossier "images" dans le dossier backend.
 
 
 A partir du dossier Web-Developper-P6 faire: 
